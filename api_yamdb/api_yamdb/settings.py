@@ -1,9 +1,7 @@
 import os
 
 from datetime import timedelta
-from dotenv import load_dotenv
 
-load_dotenv()
 DB_ENGINE = os.getenv('DB_ENGINE', 'django.db.backends.postgresql')
 DB_NAME = os.getenv('DB_NAME', 'postgres')
 DB_USER = os.getenv('POSTGRES_USER', 'postgres')
