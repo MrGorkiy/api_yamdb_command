@@ -1,4 +1,9 @@
 # api_yamdb
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=ffffff&color=043A6B)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/-Django-464646?style=flat&logo=Django&logoColor=ffffff&color=043A6B)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat&logo=Django%20REST%20Framework&logoColor=ffffff&color=043A6B)](https://www.django-rest-framework.org/)
+[![gunicorn](https://img.shields.io/badge/-gunicorn-464646?style=flat&logo=gunicorn&logoColor=ffffff&color=043A6B)](https://gunicorn.org/)
+[![SQLite 3](https://img.shields.io/badge/-SQLite_3-464646?style=flat&logo=SQLite&logoColor=ffffff&color=043A6B)](https://www.postgresql.org/)
 
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles). Произведения делятся на категории: «Книги», «Фильмы», «Музыка». Список категорий (Category) может быть расширен администратором (например, можно добавить категорию «Изобразительное искусство» или «Ювелирка»).
 
@@ -57,11 +62,6 @@ python manage.py shell
 python manage.py loaddata fixtures.json
 ```
 
-# Технологии
-```
-Python, Django, HTTP, Django Rest Framework, SQLite3
-```
-
 # Авторы
 
-- Брысин Максим (mbrysin95@yandex.ru)
+Автор: [MrGorkiy](https://github.com/MrGorkiy)
