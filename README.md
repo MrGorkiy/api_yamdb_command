@@ -64,4 +64,6 @@ python manage.py loaddata fixtures.json
 
 # Авторы
 
-Автор: [MrGorkiy](https://github.com/MrGorkiy)
+- [MrGorkiy](https://github.com/MrGorkiy)
+- Алиса Тесюль (aliskaKiSS@yandex.ru)
+- Хусаинов Евгений Маратович (Exusainov@yandex.com)
